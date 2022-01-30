@@ -49,7 +49,7 @@ def save_master_csv(dataframe: pd.DataFrame, name: str):
     dataframe.to_csv(save_path)
 ```
 ```python
-# Combines all functions and create 3 .CSV files to be used in Power Bi
+# Combine all functions and create 3 .CSV files to be used in Power Bi
 def main():
     base_path = os.path.abspath(os.path.dirname(__file__))
     data_directory = base_path + '/' + 'data'
