@@ -3,7 +3,6 @@ Author: Sofia Rosa
 <br>
 Collaborators: Alex Coles, Bekki Connolly, Miguel Angel
 <br>
-Project Hack 11
 ## Problem Statement
 The client wanted to understand the impact of project schedule updates and monitor these updates when they happen. For the challenge, we were provided with multiple project update files showing activities, milestones, and links between activities. 
 <br>
