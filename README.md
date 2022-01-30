@@ -7,7 +7,7 @@ This challenge was set by Nplan, a UK-based software company which utilises mach
 ## Problem Statement
 The client wanted to understand the impact of updates and changes to project schedule plans.
 ## Solution
-Our solution consists of a Power BI dashboard which provides a general overview of the activities, milestones and links for the project. It allows to closely manage activities on the critical path and ensure the project is finished in time. The client can dive down and look at some of the specific information around activities and milestones including a list of the tasks required to complete the project, an estimate of time that each task will take to complete, and tdependencies between tasks.
+Our solution consists of a Power BI dashboard which provides a general overview of the activities and milestones required to complete a project. It allows to closely manage activities on the critical path and ensure the project is finished in time. The client can dive down and look at some of the specific information around activities and milestones including a list of the tasks required to complete the project, an estimate of time that each task will take to complete, and tdependencies between tasks.
 ## Methodology
 ### 1. Collate data using Python
 We have merged all the data files using Python.
