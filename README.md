@@ -94,8 +94,8 @@ main()
 ```
 ### 2. Build a dashboard in Power BI
 Finally, we have built a Power BI dashboard to help visualise the combined data.
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
+![Part1](https://user-images.githubusercontent.com/68342642/151710962-516aa8ff-a124-49a9-b743-49577c4a7277.gif)
 
 
 ## Recommendations
