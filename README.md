@@ -10,7 +10,9 @@ The client wanted to understand the impact of updates and changes to project sch
 
 ## Solution
 Our solution consists of a Power BI dashboard which provides a general overview of the activities and milestones required to complete a project. It allows to closely manage activities on the critical path and ensure the project is finished in time. The client can dive down and look at some of the specific information around activities and milestones including a list of the tasks required to complete the project, an estimate of time that each task will take to complete, and tdependencies between tasks.
+
 ## Methodology
+
 ### 1. Collate data using Python
 We have merged all the data files using Python.
 ```python
@@ -95,10 +97,11 @@ The second page shows the status of each activity (also available for milestones
 The third page allows to deep dive into specific activities (also available for milestones).
 ![Part3](https://user-images.githubusercontent.com/68342642/151712476-5ff2a929-7c3a-411e-8ce6-6f689b4b6831.gif)
 
-Finally, the fourth page
+Finally, the fourth page shows the dependencies between the activities.
 ![Part4](https://user-images.githubusercontent.com/68342642/151712479-dacfea15-ab14-4d61-a73e-b3928e076e29.gif)
 
 ## Recommendations
 In the future, we would want to use predictive modeling to forecast slippage and help the client avoid project delays.
+
 ## More Information
 To learn more, please visit: https://www.youtube.com/watch?v=_ZPRI1GVmEw&list=PLM0EU9nRaeVAAdF2xO_BZK00a8fN7ki1P&index=3
