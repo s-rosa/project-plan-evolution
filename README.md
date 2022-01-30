@@ -2,7 +2,6 @@
 Author: Sofia Rosa
 <br>
 Collaborators: Alex Coles, Bekki Connolly, Miguel Angel
-<br>
 ## Project Description
 This challenge was set by Nplan, a UK-based software company which utilises machine learning and AI analytics to forecast outcomes of construction projects and mitigate risk.
 ## Problem Statement
