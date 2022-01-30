@@ -94,7 +94,7 @@ main()
 ```
 ### 2. Build a dashboard in Power BI
 Finally, we have built a Power BI dashboard to help visualise the combined data.
-<div style='position:relative; padding-bottom:calc(56.00% + 44px)'><iframe src='https://gfycat.com/ifr/UnkemptFriendlyIcelandichorse' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 
 
