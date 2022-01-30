@@ -1,11 +1,13 @@
 # Project Plan Evolution
 Author: Sofia Rosa
-<br>
 Collaborators: Alex Coles, Bekki Connolly, Miguel Angel
+
 ## Project Description
 This challenge was set by Nplan, a UK-based software company which utilises machine learning and AI analytics to forecast outcomes of construction projects and mitigate risk.
+
 ## Problem Statement
 The client wanted to understand the impact of updates and changes to project schedule plans.
+
 ## Solution
 Our solution consists of a Power BI dashboard which provides a general overview of the activities and milestones required to complete a project. It allows to closely manage activities on the critical path and ensure the project is finished in time. The client can dive down and look at some of the specific information around activities and milestones including a list of the tasks required to complete the project, an estimate of time that each task will take to complete, and tdependencies between tasks.
 ## Methodology
@@ -84,10 +86,17 @@ def main():
 main()
 ```
 ### 2. Build a dashboard in Power BI
-Finally, we have built a dashboard in Power BI to help visualise the combined data. The first page gives an overview of the activities, milestones and links for the project. 
+Once the data was combined, we have built a dashboard in Power BI to help visualise the output. The first page gives an overview of the activities, milestones and links for the project. 
 ![Part1](https://user-images.githubusercontent.com/68342642/151710962-516aa8ff-a124-49a9-b743-49577c4a7277.gif)
 
-The second page
+The second page shows the status of each activity (also available for milestones). 
+![Part2](https://user-images.githubusercontent.com/68342642/151712470-15f99c0b-0644-4043-920d-9b04addc1253.gif)
+
+The third page allows to deep dive into specific activities (also available for milestones).
+![Part3](https://user-images.githubusercontent.com/68342642/151712476-5ff2a929-7c3a-411e-8ce6-6f689b4b6831.gif)
+
+Finally, the fourth page
+![Part4](https://user-images.githubusercontent.com/68342642/151712479-dacfea15-ab14-4d61-a73e-b3928e076e29.gif)
 
 ## Recommendations
 In the future, we would want to use predictive modeling to forecast slippage and help the client avoid project delays.
