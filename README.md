@@ -90,6 +90,6 @@ Finally, we have built a dashboard in Power BI to help visualise the combined da
 The second page
 
 ## Recommendations
-In the future, we would want to use predictive modeling to forecast slippage and help the client avoid delays in schedule.
+In the future, we would want to use predictive modeling to forecast slippage and help the client avoid project delays.
 ## More Information
 To learn more, please visit: https://www.youtube.com/watch?v=_ZPRI1GVmEw&list=PLM0EU9nRaeVAAdF2xO_BZK00a8fN7ki1P&index=3
