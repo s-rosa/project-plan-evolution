@@ -14,7 +14,7 @@ Our solution consists of a Power BI dashboard which provides a general overview 
 ## Methodology
 
 ### 1. Collate data using Python
-The client provided us with 130+ .CSV files. We merged all the data files using Python.
+The client provided us with 130+ .CSV files. We have merged all the data files using Python.
 ```python
 # Import Python libraries
 import os
