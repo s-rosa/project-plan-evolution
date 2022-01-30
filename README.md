@@ -104,4 +104,4 @@ The fourth page shows dependencies between activities and milestones.
 In the future, we would want to use predictive modeling to forecast slippage and help the client avoid project delays.
 
 ## More Information
-For a quick demo ouf our solution, please click here: (https://www.youtube.com/watch?v=_ZPRI1GVmEw&list=PLM0EU9nRaeVAAdF2xO_BZK00a8fN7ki1P&index=3)
+For a quick demo, please click [here](https://www.youtube.com/watch?v=_ZPRI1GVmEw&list=PLM0EU9nRaeVAAdF2xO_BZK00a8fN7ki1P&index=3).
