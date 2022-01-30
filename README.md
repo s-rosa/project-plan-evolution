@@ -9,10 +9,12 @@ The client wanted to understand the impact of project schedule updates and monit
 <br>
 ## Solution
 Our solution provides a general overview of the activities, milestones and links for the project. Then goes into detail regarding the variance between planned and actual start / end dates for activities and milestones. Finally, it demonstrates a feature we would want to add had the data not be anonymised where we highlight key ‘high risk’ or ‘mission critical’ activities such as cranage and finds the average delay of any of these activities across multiple projects, which can then be used to derive an average cost for this risk.
-### Data Cleansing
-First, we imported
-Import Python libraries:
+## Methodology
+### 1. Data Cleansing
+We merged all data files into one using Python
+
 ```python
+# Import Python libraries
 import os
 import pandas as pd
 from typing import Tuple
