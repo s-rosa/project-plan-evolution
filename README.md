@@ -94,7 +94,9 @@ main()
 ```
 ### 2. Build a dashboard in Power BI
 Finally, we have built a Power BI dashboard to help visualise the combined data.
-https://gfycat.com/unkemptfriendlyicelandichorse
+<div style='position:relative; padding-bottom:calc(56.00% + 44px)'><iframe src='https://gfycat.com/ifr/UnkemptFriendlyIcelandichorse' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
+
 ## Recommendations
 In the future, we would want to use predictive modeling to forecast slippage and help the client avoid delays in schedule.
 ## More Information
