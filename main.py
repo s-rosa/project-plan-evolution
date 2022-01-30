@@ -30,7 +30,6 @@ def save_master_csv(dataframe: pd.DataFrame, name: str):
     print('save path: ', save_path)
     dataframe.to_csv(save_path)
 
-
 def main():
     base_path = os.path.abspath(os.path.dirname(__file__))
     data_directory = base_path + '/' + 'data'
