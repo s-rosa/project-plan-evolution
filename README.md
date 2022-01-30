@@ -5,21 +5,12 @@ Collaborators: Alex Coles, Bekki Connolly, Miguel Angel
 ## Project Description
 This challenge was set by Nplan, a UK-based software company which utilises machine learning and AI analytics to forecast outcomes of construction projects and mitigate risk.
 ## Problem Statement
-The client wanted to understand the impact of project schedule updates and monitor these updates when they happen.
+The client wanted to understand the impact of updates and changes to project schedule plans.
 ## Solution
-Our solution consists of a Power BI dashboard which provides a general overview of the activities, milestones and links for the project. The client can dive down and look at some of the specific information around activities and milestones (including planned and actual start / end dates, 
-
-
-which shows the complexity of the project
-
-
-Then goes into detail regarding the variance between planned and actual start / end dates for activities and milestones. Finally, it demonstrates a feature we would want to add had the data not be anonymised where we highlight key ‘high risk’ or ‘mission critical’ activities such as cranage and finds the average delay of any of these activities across multiple projects, which can then be used to derive an average cost for this risk.
-
-
-
+Our solution consists of a Power BI dashboard which provides a general overview of the activities, milestones and links for the project. It allows to closely manage activities on the critical path and ensure the project is finished in time. The client can dive down and look at some of the specific information around activities and milestones including a list of the tasks required to complete the project, an estimate of time that each task will take to complete, and tdependencies between tasks.
 ## Methodology
 ### 1. Collate data using Python
-We have merged all the data files into one using Python.
+We have merged all the data files using Python.
 ```python
 # Import Python libraries
 import os
@@ -93,10 +84,10 @@ def main():
 main()
 ```
 ### 2. Build a dashboard in Power BI
-Finally, we have built a Power BI dashboard to help visualise the combined data.
-
+Finally, we have built a dashboard in Power BI to help visualise the combined data. The first page gives an overview of the activities, milestones and links for the project. 
 ![Part1](https://user-images.githubusercontent.com/68342642/151710962-516aa8ff-a124-49a9-b743-49577c4a7277.gif)
 
+The second page
 
 ## Recommendations
 In the future, we would want to use predictive modeling to forecast slippage and help the client avoid delays in schedule.
