@@ -1,5 +1,6 @@
 # Project Plan Evolution
 Author: Sofia Rosa
+<br>
 Collaborators: Alex Coles, Bekki Connolly, Miguel Angel
 <br>
 ## Description
