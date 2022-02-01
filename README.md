@@ -3,10 +3,10 @@ Author: Sofia Rosa
 <br>Collaborators: Alex Coles, Bekki Connolly, Miguel Angel
 
 ## Project Description
-This challenge was set by Nplan, a UK-based software company which utilises machine learning and AI analytics to forecast outcomes of construction projects and mitigate risk.
+This challenge was set by Nplan, a UK-based software company which utilises machine learning and AI analytics to forecast outcomes of construction projects and mitigate risk. We had 2 days to work on it and deliver a solution.
 
 ## Problem Statement
-The client wanted to understand the impact of updates and changes to project schedule plans.
+The client wanted to understand the impact of updates and changes to project schedule plans. This is critical to ensure projects are delivered on time. If some activities or milestones slip, project managers need to intervene to get their project back on schedule. Otherwise, the whole project can be delayed.
 
 ## Solution
 Our solution consists of a Power BI dashboard which provides a general overview of the activities and milestones required to complete a project. It allows to identify project delays early on and take immediate action to get the project back on schedule. The client can dive down and look at some of the specific information around activities and milestones including a list of tasks required to complete the project, an estimate of time that each task will take to complete, and task dependencies.
@@ -88,16 +88,20 @@ def main():
 main()
 ```
 ### 2. Build a dashboard in Power BI
-Once the data was combined, we have built a dashboard in Power BI to help the client visualise the output. The Programme Revision Summary page gives an overview of the activities, milestones, and links between activities and milestones. It allows the client to evaluate the complexity of the project and allocate resources as required.
+Once the data was combined, we have built a dashboard in Power BI to help the client visualise the output. The Programme Revision Summary page gives an overview of the activities, milestones, and links between activities and milestones. It allows the client to evaluate the complexity of the project and possibly change project scope or re-allocate resources.
+
 ![Part1](https://user-images.githubusercontent.com/68342642/151710962-516aa8ff-a124-49a9-b743-49577c4a7277.gif)
 
 The Activity Status Summary page provides a summary of actual vs planned status of all project activities. It allows to identify high risk activities that must be closely managed to avoid project delays. A similar summary is also available for milestones.
+
 ![Part2](https://user-images.githubusercontent.com/68342642/151712470-15f99c0b-0644-4043-920d-9b04addc1253.gif)
 
 The Activity Detail page allows to deep dive into one specific activity and compare planned vs actual start and end dates. A similar summary is also available for milestones.
+
 ![Part3](https://user-images.githubusercontent.com/68342642/151712476-5ff2a929-7c3a-411e-8ce6-6f689b4b6831.gif)
 
-The Programme Network Explorer page shows dependencies between activities and milestones.
+The Programme Network Explorer page shows dependencies between activities and milestones. It allows to identify activities and milestones that are critical to the successful delivery of the project.
+
 ![Part4](https://user-images.githubusercontent.com/68342642/151712479-dacfea15-ab14-4d61-a73e-b3928e076e29.gif)
 
 ## Recommendations
