@@ -4,10 +4,10 @@ Author: Sofia Rosa
 
 
 ## Project Description
-My team participated in Project:Hack 11, a competition hosted by Project Data Analytics Community. We took on a challenge set by Nplan, a UK-based software company which utilises machine learning and AI analytics to forecast outcomes of construction projects and mitigate risk. We delivered a solution in 2 days and achieved the 3rd place out of 24 teams present.
+My team participated in Project:Hack 11, a competition hosted by Project Data Analytics Community. We took on a challenge set by Nplan, a UK-based software company which utilises machine learning and AI analytics to forecast outcomes of construction projects and mitigate risk. Nplan needed some help understand the impact of changes made to project schedule plans. We delivered a solution in 2 days and achieved the 3rd place out of 24 teams present.
 
 ## Problem Statement
-The client wanted to understand the impact of updates and changes to project schedule plans. This is critical to ensure projects are delivered on time. If some activities or milestones slip, project managers need to intervene to get their project back on schedule. Otherwise, the whole project can be delayed.
+It is important for project managers to be able to monitor and closely manage schedule updates when they happen to ensure projects are delivered on time. If some activities or milestones slip as a result of these changes, the whole project can be delayed and cause a financial loss. Project managers need to understand the impact of schedule updates and intervene, if necessary, to get their project back on schedule. 
 
 ## Solution
 Our solution consists of a Power BI dashboard which provides a general overview of the activities and milestones required to complete a project. It allows to identify project delays early on and take immediate action to get the project back on schedule. The client can dive down and look at some of the specific information around activities and milestones including a list of tasks required to complete the project, an estimate of time that each task will take to complete, and task dependencies.
