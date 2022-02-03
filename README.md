@@ -2,8 +2,9 @@
 Author: Sofia Rosa
 <br>Collaborators: Alex Coles, Bekki Connolly, Miguel Angel
 
+
 ## Project Description
-This challenge was set by Nplan, a UK-based software company which utilises machine learning and AI analytics to forecast outcomes of construction projects and mitigate risk. We had 2 days to work on it and deliver a solution.
+My team participated in Project:Hack 11, a competition hosted by Project Data Analytics Community. We took on a challenge set by Nplan, a UK-based software company which utilises machine learning and AI analytics to forecast outcomes of construction projects and mitigate risk. We had 2 days to work on it and deliver a solution. We achieved the 3rd place out of 24 teams present.
 
 ## Problem Statement
 The client wanted to understand the impact of updates and changes to project schedule plans. This is critical to ensure projects are delivered on time. If some activities or milestones slip, project managers need to intervene to get their project back on schedule. Otherwise, the whole project can be delayed.
