@@ -4,7 +4,7 @@ Author: Sofia Rosa
 
 
 ## Project Description
-My team participated in Project:Hack 11, a competition hosted by Project Data Analytics Community. We took on a challenge set by Nplan, a UK-based software company which utilises machine learning and AI analytics to forecast outcomes of construction projects and mitigate risk. Nplan needed some help understand the impact of changes made to project schedule plans. We delivered a solution in 2 days and achieved the 3rd place out of 24 teams present.
+My team participated in Project:Hack 11, a competition hosted by Project Data Analytics Community. We took on a challenge set by Nplan, a UK-based software company which utilises machine learning and AI analytics to forecast outcomes of construction projects and mitigate risk. Nplan needed help understanding the impact of changes made to project schedule plans. We delivered a solution in 2 days and achieved 3rd place out of 24 teams present.
 
 ## Problem Statement
 It is important for project managers to be able to monitor and closely manage schedule updates when they happen to ensure projects are delivered on time. If some activities or milestones slip as a result of these changes, the whole project can be delayed and cause a financial loss. Project managers need to understand the impact of schedule updates and intervene, if necessary, to get their project back on schedule. 
